@@ -1,3 +1,9 @@
 добавить ветку
 git commit -m "first commit"
 
+
+
+git branch readme
+git branch -D readme
+git checkout readme
+git checkout readme
