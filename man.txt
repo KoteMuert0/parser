@@ -7,3 +7,8 @@ git branch readme
 git branch -D readme
 git checkout readme
 git checkout readme
+
+git config --global user.name ""
+git config --global user.email ""
+git remote add origin https://github.com/KoteMuert0/parser.git
+git push -u origin master
